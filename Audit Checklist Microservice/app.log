@@ -1,0 +1,146 @@
+INFO  03:11:03 Application started. Press Ctrl+C to shut down.
+INFO  03:11:03 Application started. Press Ctrl+C to shut down.
+INFO  03:11:03 Hosting environment: Development
+INFO  03:11:03 Hosting environment: Development
+INFO  03:11:03 Content root path: F:\MFPE\Audit-Checklist-Microservice-main\Audit Checklist Microservice
+INFO  03:11:03 Content root path: F:\MFPE\Audit-Checklist-Microservice-main\Audit Checklist Microservice
+INFO  03:14:01 Application started. Press Ctrl+C to shut down.
+INFO  03:14:01 Application started. Press Ctrl+C to shut down.
+INFO  03:14:01 Hosting environment: Development
+INFO  03:14:01 Hosting environment: Development
+INFO  03:14:01 Content root path: F:\MFPE\Audit-Checklist-Microservice-main\Audit Checklist Microservice
+INFO  03:14:01 Content root path: F:\MFPE\Audit-Checklist-Microservice-main\Audit Checklist Microservice
+INFO  03:14:18 Audit Type Mismatch!
+INFO  03:14:37 Question list is returned
+INFO  03:24:22 Application started. Press Ctrl+C to shut down.
+INFO  03:24:22 Application started. Press Ctrl+C to shut down.
+INFO  03:24:22 Hosting environment: Development
+INFO  03:24:22 Hosting environment: Development
+INFO  03:24:22 Content root path: F:\MFPE\Audit-Checklist-Microservice-main\Audit Checklist Microservice
+INFO  03:24:22 Content root path: F:\MFPE\Audit-Checklist-Microservice-main\Audit Checklist Microservice
+INFO  03:24:38 Question list for Internalis returned
+INFO  03:24:48 Audit Type Mismatch!
+INFO  10:30:50 Application started. Press Ctrl+C to shut down.
+INFO  10:30:50 Application started. Press Ctrl+C to shut down.
+INFO  10:30:50 Hosting environment: Development
+INFO  10:30:50 Hosting environment: Development
+INFO  10:30:50 Content root path: F:\MFPE\Audit-Checklist-Microservice-main\Audit Checklist Microservice
+INFO  10:30:50 Content root path: F:\MFPE\Audit-Checklist-Microservice-main\Audit Checklist Microservice
+ERROR 10:32:12 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authentication handlers are registered. Did you forget to call AddAuthentication().Add[SomeAuthHandler]("Bearer",...)?
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authorization.Policy.PolicyEvaluator.AuthenticateAsync(AuthorizationPolicy policy, HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 10:32:12 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authentication handlers are registered. Did you forget to call AddAuthentication().Add[SomeAuthHandler]("Bearer",...)?
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authorization.Policy.PolicyEvaluator.AuthenticateAsync(AuthorizationPolicy policy, HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 10:35:51 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authentication handlers are registered. Did you forget to call AddAuthentication().Add[SomeAuthHandler]("Bearer",...)?
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authorization.Policy.PolicyEvaluator.AuthenticateAsync(AuthorizationPolicy policy, HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 10:35:51 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authentication handlers are registered. Did you forget to call AddAuthentication().Add[SomeAuthHandler]("Bearer",...)?
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authorization.Policy.PolicyEvaluator.AuthenticateAsync(AuthorizationPolicy policy, HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 10:40:09 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authentication handlers are registered. Did you forget to call AddAuthentication().Add[SomeAuthHandler]("Bearer",...)?
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authorization.Policy.PolicyEvaluator.AuthenticateAsync(AuthorizationPolicy policy, HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 10:40:09 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authentication handlers are registered. Did you forget to call AddAuthentication().Add[SomeAuthHandler]("Bearer",...)?
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.AuthenticateAsync(HttpContext context, String scheme)
+   at Microsoft.AspNetCore.Authorization.Policy.PolicyEvaluator.AuthenticateAsync(AuthorizationPolicy policy, HttpContext context)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  10:46:08 Application started. Press Ctrl+C to shut down.
+INFO  10:46:08 Application started. Press Ctrl+C to shut down.
+INFO  10:46:08 Hosting environment: Development
+INFO  10:46:08 Hosting environment: Development
+INFO  10:46:08 Content root path: F:\MFPE\Audit-Checklist-Microservice-main\Audit Checklist Microservice
+INFO  10:46:08 Content root path: F:\MFPE\Audit-Checklist-Microservice-main\Audit Checklist Microservice
+INFO  10:46:28 Application started. Press Ctrl+C to shut down.
+INFO  10:46:28 Application started. Press Ctrl+C to shut down.
+INFO  10:46:28 Hosting environment: Development
+INFO  10:46:28 Hosting environment: Development
+INFO  10:46:28 Content root path: F:\MFPE\Audit-Checklist-Microservice-main\Audit Checklist Microservice
+INFO  10:46:28 Content root path: F:\MFPE\Audit-Checklist-Microservice-main\Audit Checklist Microservice
+INFO  11:09:55 Application started. Press Ctrl+C to shut down.
+INFO  11:09:55 Application started. Press Ctrl+C to shut down.
+INFO  11:09:55 Hosting environment: Development
+INFO  11:09:55 Hosting environment: Development
+INFO  11:09:55 Content root path: F:\MFPE\Audit-Checklist-Microservice-main\Audit Checklist Microservice
+INFO  11:09:55 Content root path: F:\MFPE\Audit-Checklist-Microservice-main\Audit Checklist Microservice
+INFO  11:11:15 Application started. Press Ctrl+C to shut down.
+INFO  11:11:15 Application started. Press Ctrl+C to shut down.
+INFO  11:11:15 Hosting environment: Development
+INFO  11:11:15 Hosting environment: Development
+INFO  11:11:15 Content root path: F:\MFPE\Audit-Checklist-Microservice-main\Audit Checklist Microservice
+INFO  11:11:15 Content root path: F:\MFPE\Audit-Checklist-Microservice-main\Audit Checklist Microservice
+INFO  11:35:03 Application started. Press Ctrl+C to shut down.
+INFO  11:35:03 Application started. Press Ctrl+C to shut down.
+INFO  11:35:03 Hosting environment: Development
+INFO  11:35:03 Hosting environment: Development
+INFO  11:35:03 Content root path: F:\MFPE\Audit-Checklist-Microservice-main\Audit Checklist Microservice
+INFO  11:35:03 Content root path: F:\MFPE\Audit-Checklist-Microservice-main\Audit Checklist Microservice
+INFO  11:43:15 Application started. Press Ctrl+C to shut down.
+INFO  11:43:15 Application started. Press Ctrl+C to shut down.
+INFO  11:43:15 Hosting environment: Development
+INFO  11:43:15 Hosting environment: Development
+INFO  11:43:15 Content root path: F:\MFPE\Audit-Checklist-Microservice-main\Audit Checklist Microservice
+INFO  11:43:15 Content root path: F:\MFPE\Audit-Checklist-Microservice-main\Audit Checklist Microservice
+INFO  11:43:35 Get method of checklist microservice is invoked
+INFO  11:43:35 Question list for SOX is returned
+INFO  11:49:41 Get method of checklist microservice is invoked
+INFO  11:49:41 Question list for Internal is returned
+INFO  12:58:44 Application started. Press Ctrl+C to shut down.
+INFO  12:58:44 Application started. Press Ctrl+C to shut down.
+INFO  12:58:45 Hosting environment: Development
+INFO  12:58:45 Hosting environment: Development
+INFO  12:58:45 Content root path: F:\MFPE\Audit-Checklist-Microservice-main\Audit Checklist Microservice
+INFO  12:58:45 Content root path: F:\MFPE\Audit-Checklist-Microservice-main\Audit Checklist Microservice
+INFO  01:09:20 Application started. Press Ctrl+C to shut down.
+INFO  01:09:20 Application started. Press Ctrl+C to shut down.
+INFO  01:09:20 Hosting environment: Development
+INFO  01:09:20 Hosting environment: Development
+INFO  01:09:20 Content root path: F:\MFPE\Audit-Checklist-Microservice-main\Audit Checklist Microservice
+INFO  01:09:20 Content root path: F:\MFPE\Audit-Checklist-Microservice-main\Audit Checklist Microservice
+INFO  01:12:14 Get method of checklist microservice is invoked
+INFO  01:12:14 Question list for Internal is returned
+INFO  01:13:15 Get method of checklist microservice is invoked
+INFO  01:13:15 Question list for SOX is returned
+INFO  02:31:40 Get method of checklist microservice is invoked
+INFO  02:31:40 Question list for SOX is returned
+INFO  03:30:02 Get method of checklist microservice is invoked
+INFO  03:30:02 Question list for Internal is returned
+INFO  03:40:49 Get method of checklist microservice is invoked
+INFO  03:40:49 Question list for SOX is returned
+INFO  03:45:02 Get method of checklist microservice is invoked
+INFO  03:45:02 Question list for Internal is returned
